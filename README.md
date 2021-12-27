@@ -8,11 +8,27 @@
 
 ## Tips
 
+**如何将本地普通文件夹设置成Git仓库**
+
+在文件夹中右键 Git bush here
+
+git init (会得到一个.git文件夹)
+
+此时仓库已经建好，添加好内容后
+
+git add . 
+
+git commit -m "提交说明"
+
+git branch -M surface #新建一个分支名叫surface
+
+
+
 **如何将本地仓库上传至GitHub**
 
 1. 在GitHub上新建一个仓库
 
-2. 将新建的仓库克隆到本地
+2. 将新建的仓库克隆到本地, 或直接打开本地已存在的仓库
 
 3. 对仓库内容进行编辑，更新
 
