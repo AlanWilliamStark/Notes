@@ -1,10 +1,14 @@
-# Notes
+# Introduction
+
+本仓库是一个学习记录，记录本人的各项学习历程。2021年12月28日建立，后期将不断更新各种学习笔记。
+
+# 目录
 
 
 
-This is the first note
+## Tips
 
-如何将本地仓库上传至GitHub
+**如何将本地仓库上传至GitHub**
 
 1. 在GitHub上新建一个仓库
 
