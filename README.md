@@ -4,6 +4,16 @@
 
 # 目录
 
+[Python 基础笔记](Python基础文档/Python基础.md)
+
+[安装Pygame时出现的问题](Python基础文档/安装Pyganme时出现的问题.md)
+
+[Matplotlib 基础笔记](/Python可视化库的基础知识及语法比较/MatplotlibPyplot基础笔记)
+
+
+
+
+
 
 
 ## Tips
